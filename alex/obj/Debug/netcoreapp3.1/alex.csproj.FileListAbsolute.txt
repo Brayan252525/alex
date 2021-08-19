@@ -1,0 +1,14 @@
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.exe
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.deps.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.runtimeconfig.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.runtimeconfig.dev.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\bin\Debug\netcoreapp3.1\alex.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.AssemblyInfo.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\alex\alex\obj\Debug\netcoreapp3.1\alex.genruntimeconfig.cache
